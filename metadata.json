@@ -1,0 +1,6 @@
+{
+  "name": "VEND-MECH: Futuristic Physics Vending Machine",
+  "description": "Interactive 3D mechanical engineering and physics simulation demonstrating force, torque, gear trains, flywheel momentum, stress analysis, and thermal dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
